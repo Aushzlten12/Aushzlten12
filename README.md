@@ -25,28 +25,30 @@ Computer Science Student
 
 <b>My GitHub Stats</b>
 
-<div>
+
 <a href="http://www.github.com/Aushzlten12"><img src="https://github-readme-stats.vercel.app/api?username=Aushzlten12&show_icons=true&hide=stars,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aushzlten12's GitHub stats" /></a>
 
 <a href="http://www.github.com/Aushzlten12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aushzlten12&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/Aushzlten12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aushzlten12&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+
 
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
 <a href="https://github.com/Aushzlten12/renta-carros" align="left">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aushzlten12&repo=renta-carros&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aushzlten12&repo=renta-carros&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
+
 <a href="https://github.com/Aushzlten12/airbnb" align="right">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aushzlten12&repo=airbnb&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aushzlten12&repo=airbnb&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 
 </div>
 
-<br /><br /><br /><br />
+<br /><br />
+<br /><br />
 
 <div width="100%" align="center">
-<a href="https://github.com/Aushzlten12/cp-algorithms" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aushzlten12&repo=cp-algorithms&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/Aushzlten12/Prediccion-simbolos" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aushzlten12&repo=Prediccion-simbolos&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/Aushzlten12/cp-algorithms" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aushzlten12&repo=cp-algorithms&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Aushzlten12/Prediccion-simbolos" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aushzlten12&repo=Prediccion-simbolos&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
