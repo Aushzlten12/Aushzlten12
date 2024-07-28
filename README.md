@@ -1,9 +1,8 @@
-<img align="right" height="150" src="https://i.pinimg.com/originals/c1/51/a9/c151a955cca67193493f230a9ab5c640.jpg"  />
-
 ###
 
 Hi 👋 My name is JosePM
 ====================
+<img align="right" height="150" src="https://i.pinimg.com/originals/c1/51/a9/c151a955cca67193493f230a9ab5c640.jpg"  />
 
 I am a computer science student with a strong interest in becoming a full-stack developer.
 
