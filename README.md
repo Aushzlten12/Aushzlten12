@@ -41,5 +41,5 @@ I am a computer science student with a strong interest in becoming a full-stack 
 </picture>
 
 <a href="https://github.com/aushzlten12">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aushzlten12&layout=compact&langs_count=8&card_width=320&theme=dark&disable_animations=false" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aushzlten12&layout=compact&langs_count=8&card_width=320&theme=dark&disable_animations=false&size_weight=0.5&count_weight=0.5" />
 </a>
