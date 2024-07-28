@@ -37,9 +37,9 @@ I am a computer science student with a strong interest in becoming a full-stack 
     srcset="https://github-readme-stats.vercel.app/api?username=aushzlten12&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aushzlten12&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aushzlten12&show_icons=true&disable_animations=false" />
 </picture>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aushzlten12&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aushzlten12&layout=compact&langs_count=8&card_width=320&theme=dark&disable_animations=false" />
 </a>
