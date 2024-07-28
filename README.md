@@ -2,6 +2,7 @@
 
 ###
 
+<div align="center">
 Hi 👋 My name is JosePM
 =======================
 
@@ -10,7 +11,9 @@ I am a computer science student with a strong interest in becoming a full-stack 
 * 🌍  I'm based in Lima
 * 🖥️  See my portfolio at [MyPortfolio](http://josepm-portfolio.netlify.app/)
 * ✉️  You can contact me at [josepachas1604@gmail.com](mailto:josepachas1604@gmail.com)
-* 🧠  I'm learning Next,js, PyGame and Django
+* 🧠  I'm learning Next,js, PyGame and Django  
+</div>
+
 
 ### Skills
 
