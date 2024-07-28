@@ -28,6 +28,8 @@ I am a computer science student with a strong interest in becoming a full-stack 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Aushzlten12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aushzlten12&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Aushzlten12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aushzlten12&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aushzlten12&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=aushzlten12&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
